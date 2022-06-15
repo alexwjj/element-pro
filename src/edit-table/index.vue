@@ -24,7 +24,7 @@
 </template>
 <script>
 export default {
-  name: 'EditTable',
+  name: 'editTable',
   props: {
     tableData: {
       type: Object,
