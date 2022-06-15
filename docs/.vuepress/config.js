@@ -15,16 +15,16 @@ module.exports = {
         link: "/",
       },
       {
-        text: "组件",
-        link: "/comps/",
+        text: "文档",
+        link: "/comps-docs/",
       },
       { text: 'GitHub', link: 'https://github.com/alexwjj', icon: 'reco-github' },
     ],
     
     sidebar: {
-      '/comps/': [
-        '/comps/',
-        '/comps/editTable.md'
+      '/comps-docs/': [
+        '/comps-docs/',
+        '/comps-docs/editTable.md'
       ]
     }
   },
